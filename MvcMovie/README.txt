@@ -14,8 +14,9 @@
 0014.. using MySQL didn't work.
 0015.. installed MS SQL and connected to the server on VS.
 0016.. edited the appsettings.json file to connect to the new installed sql server. 
-0017.. after that had issue where the Movies table is not creating. So created the table manually. 
+0017.. after that had issue where the Movies table is not creating. So created the table had to make edits to Movie.cs class. 
 0018.. Populated the db with the seeddata class.
 0019.. Search added
-0020.. Tested the app and all working as needed. 
-0021.. Commit to Git Hub
+0020.. Ratting added. 20250205053436_Rating
+0021.. Tested the app and all working as needed. 
+0022.. Commit to Git Hub
