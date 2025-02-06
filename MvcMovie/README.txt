@@ -40,4 +40,5 @@
 0032.. Ratting added. 20250205053436_Rating
 0033.. Tested the app and all working as needed. 
 0034.. Commit to Git Hub
-0035... Added 5 new movies using new class newmovies
+0035.. Added 5 new movies using new class newmovies
+0036.. Published to Azure
